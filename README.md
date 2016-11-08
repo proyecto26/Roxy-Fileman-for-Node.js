@@ -1,5 +1,5 @@
 # Roxy Fileman for Node.js
-Roxy Fileman for Node.js is ready for use with CKEditor and TinyMCE WYSIWYG html editors.
+Roxy Fileman is free open source file manager for .NET, PHP and Node.js, ready for use with CKEditor and TinyMCE WYSIWYG html editors. It could be easily integrated into a CMS or any other web application. Fileman is based on JQuery and JQueryUI libraries and it's compatible with all modern browsers - Internet Explorer, Firefox, Google Chrome, Safary and Opera.
 
 ![Roxy Fileman for Node.js](public/screen.png)
 
