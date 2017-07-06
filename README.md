@@ -35,6 +35,10 @@ Roxy Fileman is free open source file manager for .NET, PHP and Node.js, ready f
  
 # Credits
  * Lyubomir Arsov - www.roxyfileman.com
+ 
+# Supporting
+I believe in Unicorns 🦄
+Support [me](http://www.paypal.me/jdnichollsc/2), if you do too.
 
 # Happy coding
 Made with <3
