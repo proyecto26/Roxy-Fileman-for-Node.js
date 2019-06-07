@@ -4,6 +4,7 @@ var fs = require('fs-extra');
 var path = require('path');
 var sizeOf = require('image-size');
 var gm = require('gm');
+var exec = require('child_process').exec;
 var multer  = require('multer');
 var archiver = require('archiver');
 
@@ -120,16 +121,21 @@ router.post('/rename', function(req, res) {
 
 /* Generate thumbnail */
 router.get('/generatethumb', function(req, res) {
+
+  exec("gm -help", function (err) {
+    if (err) {
+      res.status(500).send({ error: 'GraphicsMagick is not installed' })
+    } else {
+      res.setHeader("content-type", "image/png");
   
-  res.setHeader("content-type", "image/png");
-  
-  gm(path.join(serverRoot, req.query.f))
-  .resize(req.query.width || '200', req.query.height || '200', '^')
-  .gravity('Center')
-  .crop(req.query.width || '200', req.query.height || '200')
-  .stream('png')
-  .pipe(res);  
-  
+      gm(path.join(serverRoot, req.query.f))
+      .resize(req.query.width || '200', req.query.height || '200', '^')
+      .gravity('Center')
+      .crop(req.query.width || '200', req.query.height || '200')
+      .stream('png')
+      .pipe(res);  
+    }
+  });
 });
 
 /* Upload files */
