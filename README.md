@@ -3,14 +3,14 @@ Roxy Fileman is free open source file manager for .NET, PHP and Node.js, ready f
 
 ![Roxy Fileman for Node.js](public/screen.png)
 
-# Instructions
+## Instructions
  * Install **[Node.js](https://nodejs.org)**.
  * Install **[GraphicsMagick](http://www.graphicsmagick.org/)**.
  * Download this template.
  * Execute the commands: `npm install && npm start`
  * Try in the browser http://localhost:3000
  
-# Features
+## Features
  * High performance. No page reloading - all data is loaded using Ajax.
  * Multilanguage support.
  * Context menus.
@@ -33,14 +33,22 @@ Roxy Fileman is free open source file manager for .NET, PHP and Node.js, ready f
  * Drag and drop file uploads.
  * Dinamyc configuration **[conf.js](https://github.com/jdnichollsc/Roxy-Fileman-for-Node.js/blob/master/routes/conf.js)**.
  
-# Credits
+## Credits 👍
  * Lyubomir Arsov - www.roxyfileman.com
  
-# Supporting
+## Contributing ✨
+When contributing to this repository, please first discuss the change you wish to make via issue, email, or any other method with the owners of this repository before making a change.  
+Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated** ❤️.  
+You can learn more about how you can contribute to this project in the [contribution guide](https://github.com/proyecto26/Roxy-Fileman-for-Node.js/blob/master/CONTRIBUTING.md).
+ 
+## Supporting 🍻
 I believe in Unicorns 🦄
 Support [me](http://www.paypal.me/jdnichollsc/2), if you do too.
 
-# Happy coding
+## License ⚖️
+This repository is available under the [MIT License](https://github.com/proyecto26/Roxy-Fileman-for-Node.js/blob/master/LICENSE).
+
+## Happy coding 💯
 Made with <3
 
 <img width="150px" src="http://phaser.azurewebsites.net/assets/nicholls.png" align="right">
