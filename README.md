@@ -36,25 +36,31 @@ Roxy Fileman is free open source file manager for .NET, PHP and Node.js, ready f
 ## Credits 👍
  * Lyubomir Arsov - www.roxyfileman.com
  
-## Contributing ✨
-When contributing to this repository, please first discuss the change you wish to make via issue, email, or any other method with the owners of this repository before making a change.  
-Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated** ❤️.  
-You can learn more about how you can contribute to this project in the [contribution guide](https://github.com/proyecto26/Roxy-Fileman-for-Node.js/blob/master/CONTRIBUTING.md).
+## Star History 🌟
+
+[![Star History Chart](https://api.star-history.com/svg?repos=proyecto26/Roxy-Fileman-for-Node.js&type=Date)](https://star-history.com/#proyecto26/Roxy-Fileman-for-Node.js-code&Date)
+
+## Sponsors 💜
+
+This project is free and open source. Sponsors help keep it maintained and growing.
+
+[**Become a Sponsor**](https://github.com/sponsors/proyecto26) | [Sponsorship Program](https://proyecto26.com/sponsors/)
+
+## Contribution 🤝
+
+When contributing to this repository, please first discuss the change you wish to make via issue,
+email, or any other method with the owners of this repository before making a change.
  
-## Supporting 🍻
-I believe in Unicorns 🦄
-Support [me](http://www.paypal.me/jdnichollsc/2), if you do too.
-
-Donate **Ethereum**, **ADA**, **BNB**, **SHIBA**, **USDT/USDC**, **DOGE**, etc:
-
-> Wallet address: jdnichollsc.eth
-
-Please let us know your contributions! 🙏
+Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated** ❤️.
+ 
+You can learn more about how you can contribute to this project in the [contribution guide](https://github.com/proyecto26/.github/blob/master/CONTRIBUTING.md).
 
 ## License ⚖️
 This repository is available under the [MIT License](https://github.com/proyecto26/Roxy-Fileman-for-Node.js/blob/master/LICENSE).
 
 ## Happy coding 💯
-Made with <3
+Made with ❤️ by [Proyecto 26](https://proyecto26.com) - Changing the world with small contributions.
 
-<img width="150px" src="http://phaser.azurewebsites.net/assets/nicholls.png" align="right">
+One hand can accomplish great things, but many can take you into space and beyond! 🌌
+
+Together we do more, together we are more ❤️ <img width="150px" src="https://avatars0.githubusercontent.com/u/28855608?s=200&v=4" align="right">
